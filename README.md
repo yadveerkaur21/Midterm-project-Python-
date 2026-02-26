@@ -8,12 +8,12 @@ This project demonstrates object-oriented programming principles, modular design
 
 Project Structure
 Baseball-Team-Manager/
-├── main.py        # Application entry point and control logic
-├── ui.py          # User interface and input/output handling
-├── objects.py     # Player and Lineup class definitions
-├── db.py          # CSV data management
-├── players.csv    # Data storage file
-└── README.md
+ main.py        # Application entry point and control logic
+ ui.py          # User interface and input/output handling
+ objects.py     # Player and Lineup class definitions
+ db.py          # CSV data management
+ players.csv    # Data storage file
+ README.md
 Key Features
 
 Display current lineup with formatted statistics
