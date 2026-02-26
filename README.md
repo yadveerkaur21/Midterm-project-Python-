@@ -55,6 +55,7 @@ Navigate to the project directory.
 Run the program:
 
 python main.py
+
 Author
 
 Yadveer Kaur
